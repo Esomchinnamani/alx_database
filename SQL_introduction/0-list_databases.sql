@@ -1,1 +1,2 @@
-cat 0-list_databases.sql | mysql -hlocalhost -uroot -p
+-- The following script shows a list of all the  dataases of mySQL server
+SHOW DATABASE;
