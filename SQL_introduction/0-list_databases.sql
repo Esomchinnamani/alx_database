@@ -1,3 +1,3 @@
--- The following script shows a list of all the  dataases of mySQL server
+-- The following script lists of all databases in mySQL server
 
 SHOW DATABASES;
